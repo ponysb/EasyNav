@@ -1,0 +1,6 @@
+[
+    {"title":"首页","url":"/"},
+    {"title":"关于","url":"/about"},
+    {"title":"标签","url":"/tags"},
+    {"title":"归档","url":"/archives"}
+]

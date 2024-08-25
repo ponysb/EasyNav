@@ -1,0 +1,19 @@
+{
+    "title": "标签星球",
+    "description": "标签星球是一个基于标签的社交网络，你可以在这里发现志同道合的朋友，分享你的感兴趣的标签，与其他用户一起交流。",
+    "keywords": "标签,星球,社交网络,标签星球",
+    "footer": {
+        "copyright": {
+            "text": "© 2021 EasyNav",
+            "url": "https://easynav.top"
+        },
+        "support":{
+            "text": "Powered by React",
+            "url":""
+        },
+        "beian":{
+            "text": "粤ICP备2021005979号-1",
+            "url": "https://beian.miit.gov.cn/"
+        }
+    }
+}
