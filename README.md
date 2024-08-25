@@ -6,7 +6,7 @@
 
 ## 介绍
 
-官网：[https://tagplanet.zhuayuya.com](tagplanet.zhuayuya.com)
+官网：[https://tagplanet.zhuayuya.com](https://tagplanet.zhuayuya.com)
 
 最简单的导航网站解决方案，使用主流框架 Next.js技术栈编写，服务端渲染更利于 SEO
 
